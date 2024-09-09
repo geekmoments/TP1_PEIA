@@ -1,5 +1,5 @@
 
-# TP1 - Proyecto de Probabilidad y Estadística
+# TP1 - Probabilidad y Estadística
 
 Este proyecto analiza datos de ventas de un supermercado y genera gráficos que muestran la distribución empírica y la estimación de densidad de los años 2021, 2022 y 2023. El proyecto se ejecuta utilizando **Docker** y **Python**, y los gráficos se guardan como archivos de imagen (`.png`).
 
